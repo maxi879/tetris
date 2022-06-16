@@ -1,2 +1,2 @@
-# tetris
+# Tetris casero
 Tetris casero
